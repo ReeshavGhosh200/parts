@@ -14,4 +14,16 @@ table, tr, td, th {
   padding: 5px;
   border-radius: 2px;
   border-collapse: collapse;
+}
+
+.copy {
+  background-color: yellow;
+  font-family: arial;
+  font-size: 15px;
+  padding: 5px;
+  margin: 0;
+}
+
+.ddd {
+  height: 75vh;
 }/*# sourceMappingURL=style.css.map */
